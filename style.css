@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300;1,400&display=swap');
+
 img{
     width: 150px ;
     padding-bottom: 5px;
+}
+
+.lesson{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
