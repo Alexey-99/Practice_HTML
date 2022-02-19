@@ -1,27 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300;1,400&display=swap");
 
-body{
-    width: 100%;
+body {
+  width: 100%;
 }
-img{
-
-    width: 150px ;
-    padding-bottom: 0px;
-}
-
-.lesson{
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
+img {
+  width: 150px;
+  padding-bottom: 0px;
 }
 
-table{
-    text-align: left;
-    width: 100%;
+.lesson {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
-.networks img{
-   padding-right: 300px;
-    size: 25%;
-  
-    
+table {
+  text-align: left;
+  width: 100%;
+}
+
+.networks img {
+  padding-right: 300px;
+  size: 25%;
 }
