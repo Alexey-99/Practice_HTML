@@ -22,3 +22,6 @@ table {
   padding-right: 300px;
   size: 25%;
 }
+.networks img:hover{
+  opacity: 0.5;
+}
